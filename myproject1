@@ -1,0 +1,7 @@
+git clone
+ls
+git status
+touch f1
+git add f1
+git commit -m "hi" f1
+git push
